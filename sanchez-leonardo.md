@@ -1,1 +1,1 @@
-Jorge Gonzalez Mollinedo - Rol: Líder de proyecto
+Leonardo Sanchez Mena - Rol: Desarrollador
